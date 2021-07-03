@@ -1,5 +1,6 @@
 html {
     font-family: Vollkorn; 
+    text
 }
 
 body {
@@ -69,4 +70,6 @@ nav {
         linear-gradient(to top left, lime, transparent),
         linear-gradient(to top right, blue, transparent);
     background-blend-mode: screen;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
